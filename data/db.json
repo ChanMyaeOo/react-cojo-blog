@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Journey to Mount Popa",
+      "author": "Jenny",
+      "body": "This journey was amazing and we have a lot of funs. ...",
+      "id": 1
+    },
+    {
+      "title": "Gamer Class",
+      "author": "Marlin",
+      "body": "In this class we will teach you about Dota 2. ...",
+      "id": 2
+    },
+    {
+      "title": "Housing Prices",
+      "author": "Kelly",
+      "body": "You need to know about the price of housing in Myanmar",
+      "id": 3
+    },
+    {
+      "title": "Happy Coding Bootcamp",
+      "body": "In this bootcamp you will learn about web development",
+      "author": "Kelly",
+      "id": 5
+    }
+  ]
+}
